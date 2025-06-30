@@ -1,7 +1,15 @@
 Privet
+<<<<<<< HEAD
 Meved
 
 oa
 npa
 slam
+=======
+Medved
+
+opa
+nopa
+salam
+>>>>>>> master
 
